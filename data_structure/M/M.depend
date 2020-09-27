@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1537886706 source:d:\data_structure_course\50_practice\m\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1537886725 source:d:\data_structure_course\50_practice\m\m.c
+	<stdlib.h>
+
